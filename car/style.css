@@ -1,0 +1,36 @@
+.navbar{
+    background-color:burlywood !important ;
+}
+
+.black{
+    width: 10px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: #000;
+}
+.white{
+    width: 10px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.silver{
+    width: 10px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: silver;
+    border: 1px solid #000;
+}
+.red{
+    width: 10px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: red;
+    border: 1px solid #000;
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
