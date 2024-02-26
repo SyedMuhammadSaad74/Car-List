@@ -1,73 +1,8 @@
 var carlist = {
-suzuki : {
-    mehran : {
-        image:'https://www.suzukipremier.com/wp-content/uploads/2020/10/Suzuki_Mehran_2012.jpg',
-        model:'2024',
-        seatcapacity:'5 person',
-        fuleType : 'petrol',
-        Transmission :'Type	Manual',
-        Mileage: "14 to 18 KM/LITER",
-        Wheel :	'12 in',
-        price: '1,700,000 PKR',
-        color: ['red','white','silver']   
-    },
-    alto :{
-        image:'https://suzukifortmotors.com/wp-content/uploads/2020/12/Alto-Pearl-Black.jpg',
-        model:'2024',
-        seatcapacity:'5 person',
-        fuleType : 'petrol',
-        Transmission :'Type	Manual',
-        Mileage: "17 to 22 KM/LITER",
-        Wheel :	'14 in',
-        price: '2,400,000 PKR',
-        color: ['red','white','black']   
 
-    
-    },
-    cultus :{
-        image:'https://cache4.pakwheels.com/system/car_generation_pictures/6014/original/Suzuki_Cultus_-_PNG.png?1635945515',
-        model:'2024',
-        seatcapacity:'5 person',
-        fuleType : 'petrol',
-        Transmission :'Type	Auto',
-        Mileage: "15 to 19 KM/LITER",
-        Wheel :	'14 in',
-        price: '2,900,000 PKR',  
-        color: ['red','white','silver']   
-
-    
-    },
-    swift :{
-        image:'https://res.cloudinary.com/total-dealer/image/upload/w_3840,f_auto,q_75/v1/production/re4if73s29t922lpwu6mdxjbt7vu',
-        model:'2024',
-        seatcapacity:'5 person',
-        fuleType : 'petrol',
-        Transmission :'Type	Auto',
-        Mileage: "15 to 19 KM/LITER",
-        Wheel :	'14 in',
-        price: '4,200,000 PKR',  
-        color: ['red','white','black']   
-
-
-    },
-    vegonR : {
-        image:'https://imgd.aeplcdn.com/1920x1080/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80',
-        model:'2024',
-        seatcapacity:'5 person',
-        fuleType : 'petrol',
-        Transmission :'Type	Auto',
-        Mileage: "15 to 19 KM/LITER",
-        Wheel :	'14 in',
-        price: '3,200,000 PKR',  
-        color: ['red','white','black']   
-
-
-    }
-    
-},
 honda :{
     city : {
-        image:'https://cache1.pakwheels.com/system/car_generation_pictures/6425/original/Honda_City_Front.jpg?1651424945',
+        image:'https://dam.alfuttaim.com/dx/api/dam/v1/collections/9b54a41e-bdce-476a-8661-a40d019bda37/items/e6c3fc7d-5b10-466d-870d-a75e6b8d336c/renditions/93a9a847-4af1-4a44-a1da-cff54dcb7ed4?binary=true',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -78,7 +13,7 @@ honda :{
         color: ['red','white','black']   
     },
     BRV :{
-        image:'https://images.summitmedia-digital.com/topgear/images/2022/08/02/honda-br-v-2023-2-1659409771.jpg',
+        image:'https://www.hondaunionmotor.co.id/wp-content/uploads/2020/04/BRV-PALEMBANG-3-500x300.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -89,7 +24,7 @@ honda :{
         color: ['red','white','black']   
     },
     accord :{
-        image:'https://cdcssl.ibsrv.net/autodata/images/?img=USD30HOC091D021001.jpg&width=660',
+        image:'https://vehicle-images.dealerinspire.com/stock-images/chrome/722295e1f194dc9a1ddfe3d3f6fb2b2f.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -111,7 +46,7 @@ honda :{
         color: ['red','white','black']   
     },
     HRV :{
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxrssm6x1oanNQcjBYaGj28k25Y6KSZ9gmTP14Zn8hUS78Ofkcru7ficXgBfxUC7EE0k&usqp=CAU',
+        image:'https://vehicle-images.dealerinspire.com/af58-110009533/thumbnails/large/3CZRZ1H33RM731186/4a36033b928f1b33b357cb1543594ab6.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -147,7 +82,7 @@ toyota : {
         color: ['red','white','black']   
     },
     yaris :{
-        image:'https://www.gari.pk/images/new/cars/2022-10/2273_1_44820.jpg',
+        image:'https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_low/v1/editorial/vhs/2021-toyota-yaris-index.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -158,7 +93,7 @@ toyota : {
         color: ['red','white','black']   
     },
     camry :{
-        image:'https://images.dealer.com/autodata/us/color/2024/USD40TOC201E0/089.jpg?impolicy=resize&w=414',
+        image:'https://media.rti.toyota.com/config/pub/3d/toyota/1009284/1000854/Exterior/1/1200_663_PNG/8c1d54cff18ed4c9fc8c89b5bdabb43027ddc4ddc2e7e3eda21489b144b63602.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -169,7 +104,7 @@ toyota : {
         color: ['red','white','black']   
     },
     premio :{
-        image:'https://cache1.pakwheels.com/system/car_generation_pictures/3046/original/Toyota_Premio_2007.jpg?1444385166',
+        image:'https://i0.wp.com/carandbike.pk/wp-content/uploads/2023/01/premio-for-sale.png?resize=594%2C420&ssl=1',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -180,7 +115,7 @@ toyota : {
         color: ['red','white','black']   
     },
     landcruiser :{
-        image:'https://cache1.pakwheels.com/system/car_generation_pictures/6008/original/Land_Cruiser_300_-_PNG.png?1635484577',
+        image:'https://crdms.images.consumerreports.org/c_lfill,w_470,q_auto,f_auto/prod/cars/cr/model-years/17213-2024-toyota-land-cruiser',
         model:'2024',
         seatcapacity:'8 person',
         fuleType : 'petrol',
@@ -191,7 +126,7 @@ toyota : {
         color: ['red','white','black']   
     },
     crollacross :{
-        image:'https://cache4.pakwheels.com/system/car_generation_pictures/7493/original/20200709104304_ac2.jpg?1685107928',
+        image:'https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/5767bdf2d6b50a4556dd9a9a4cd72f2c.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -202,7 +137,7 @@ toyota : {
         color: ['red','white','black']   
     },
     landcruiser300 :{
-        image:'https://cache4.pakwheels.com/system/car_generation_pictures/5546/original/20210802_01_02_s.jpg?1628488891',
+        image:'https://i0.wp.com/autoexplored.com/wp-content/uploads/2023/07/Toyota-Land-Cruiser-2022-3.png?fit=666%2C375&ssl=1',
         model:'2024',
         seatcapacity:'8 person',
         fuleType : 'petrol',
@@ -213,7 +148,7 @@ toyota : {
         color: ['red','white','black']   
     },
     fortuner :{
-        image:'https://cache4.pakwheels.com/system/car_generation_pictures/7335/original/Fortuner_-_PNG.png?1677568997',
+        image:'https://cache-igetweb-v2.mt108.info/uploads/images-cache/2254/product/94a8f9d8c0a44cc3f8b576d66caac8d2.png',
         model:'2024',
         seatcapacity:'8 person',
         fuleType : 'petrol',
@@ -224,7 +159,7 @@ toyota : {
         color: ['red','white','black'],   
     },
     revo :{
-        image:'https://trustmotorsthailand.com/wp-content/uploads/2020/08/FB_IMG_1629858585495.jpg',
+        image:'https://www.bolnews.com/wp-content/uploads/2024/01/FotoJet-9-635x430.png ',
         model:'2024',
         seatcapacity:'5 person',
         extra : 'loading area',
@@ -236,7 +171,7 @@ toyota : {
         color: ['red','white','black'],   
     },
     hilux :{
-        image:'https://admin.kovacs.ecrm.cl/files/bms_producto_mutimedia/1501/BLANCO.jpg',
+        image:'https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_low/v1/editorial/vhs/2023-Hilux-GRS-SAL-alt.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -247,7 +182,7 @@ toyota : {
         color: ['red','white','black'],   
     },
     hiace :{
-        image:'https://cache2.pakwheels.com/system/car_generation_pictures/5443/original/hiace-cover.jpg?1615979645',
+        image:'https://i0.wp.com/ayuz.net/wp-content/uploads/2022/07/toyota-hiace-super-grandia-elite.png?resize=1023%2C465&ssl=1',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -259,9 +194,76 @@ toyota : {
     }
 },
 
+suzuki : {
+    mehran : {
+        image:'https://autodealing.pk/wp-content/uploads/2023/02/car_9024_948767-removebg-preview.png',
+        model:'2024',
+        seatcapacity:'5 person',
+        fuleType : 'petrol',
+        Transmission :'Type	Manual',
+        Mileage: "14 to 18 KM/LITER",
+        Wheel :	'12 in',
+        price: '1,700,000 PKR',
+        color: ['red','white','silver']   
+    },
+    alto :{
+        image:'https://i0.wp.com/carandbike.pk/wp-content/uploads/2022/12/alto-price.png?fit=612%2C408&ssl=1',
+        model:'2024',
+        seatcapacity:'5 person',
+        fuleType : 'petrol',
+        Transmission :'Type	Manual',
+        Mileage: "17 to 22 KM/LITER",
+        Wheel :	'14 in',
+        price: '2,400,000 PKR',
+        color: ['red','white','black']   
+
+    
+    },
+    cultus :{
+        image:'https://suzukigujrat.com/wp-content/uploads/2023/02/Suzuki-Gujrat-Motors-Suzuki-Cultus-Pearl-Red.png',
+        model:'2024',
+        seatcapacity:'5 person',
+        fuleType : 'petrol',
+        Transmission :'Type	Auto',
+        Mileage: "15 to 19 KM/LITER",
+        Wheel :	'14 in',
+        price: '2,900,000 PKR',  
+        color: ['red','white','silver']   
+
+    
+    },
+    swift :{
+        image:'https://ik.imagekit.io/parkplus/production/crawler/public/Crawlerc89546847a1c11ee8f3727bb39bc1d51_20231103131413847508.jpg',
+        model:'2024',
+        seatcapacity:'5 person',
+        fuleType : 'petrol',
+        Transmission :'Type	Auto',
+        Mileage: "15 to 19 KM/LITER",
+        Wheel :	'14 in',
+        price: '4,200,000 PKR',  
+        color: ['red','white','black']   
+
+
+    },
+    WagonR : {
+        image:'https://i0.wp.com/carandbike.pk/wp-content/uploads/2023/01/wagon-r-car.png?resize=632%2C395&ssl=1',
+        model:'2024',
+        seatcapacity:'5 person',
+        fuleType : 'petrol',
+        Transmission :'Type	Auto',
+        Mileage: "15 to 19 KM/LITER",
+        Wheel :	'14 in',
+        price: '3,200,000 PKR',  
+        color: ['red','white','black']   
+
+
+    }
+    
+},
+
 hyundai :{
     tucson :{
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE49H14YXC3fTJhUqMmUEFZpGkdPttQHTwEQ&usqp=CAU',
+        image:'https://inv.assets.ansira.net/ChromeColorMatch/us/TRANSPARENT_cc_2024HYS210008_01_1280_TW3.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -283,7 +285,7 @@ hyundai :{
         color: ['red','white','black']   
     },
     kona :{
-        image:'https://inv.assets.ansira.net/ChromeMultiView/us/WHITE_2024HYS060065_1280_01.jpg',
+        image:'https://resource.digitaldealer.com.au/image/1515069622649bb6bfd688e571947011_600_0.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -294,7 +296,7 @@ hyundai :{
         color: ['red','white','black']   
     },
     palisade :{
-        image:'https://inv.assets.ansira.net/ChromeColorMatch/us/WHITE_cc_2024HYS190074_01_1280_WC9.jpg',
+        image:'https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/58ad7b5291c3972b798af0cb2e6971dd.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -305,7 +307,7 @@ hyundai :{
         color: ['red','white','black']   
     },
     venue :{
-        image:'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201905/Hyundai_Venue_Exterior.jpeg?size=690:388',
+        image:'https://lh3.googleusercontent.com/proxy/huAOtGhcQ12q8gN2iQB9EsbrChbw5mFLA5icwyqqm5LK79rrL4UO4IT8BdsoM172HfQCfT1a8EUMo7oTdNoCb1W-KgBADbsWqZND6_TuAgfuMGhPY-Lig2CWxKNBSzq23IeweWLoYiAcmQExZfaP7VP2ePWd-pW8qjRB3gO7qMGl5neIpOOLFxyv76qDKFLZkz6NHEGYhpDSKaazg-2H4w99rQ_kjaRVpiPusQVbjhLOMaQdfIDz-ZhT28GRfjPdBxS5ahxeaRoGCy5qekdq-pHr4zM6ZMSUyKRuRtICMquNLNWJFvc2uYmlAeKdDN9UF_y5BEo6QquOZRV5zIbz1Jo0Ny1XJ0RcFiVPthHaP7Yph7-D',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -396,10 +398,11 @@ var cars =carlist[brand.value][model.value];
                   <p class="card-text">${`COLORS: `} ${cars.color}
                   <br/ >
                   <h5>${cars.price}</h5>
-                </div>
-              </div>
-            </div>
-           </div>`
+                  </div>
+                  </div>
+                  </div>
+                  </div>`
+                
 }
 
 function clearSerach(){
