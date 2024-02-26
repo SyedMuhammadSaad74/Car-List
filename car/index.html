@@ -24,23 +24,27 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-                <form class="d-flex ms-auto">
+                <div class="d-flex ms-auto gap-3" role="search">
                     <select onchange="setModel()" id="brand" class="form-select" aria-label="Default select example">
-                       
-                      </select>
-                      <select id="model" class="form-select" aria-label="Default select example">
-                        
-                      </select>
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
+
+                    </select>
+                    <select id="model" class="form-select" aria-label="Default select example">
+
+                    </select>
+                    <button onclick="car()" class="btn btn-outline-success" style="margin-right: 10px;" type="submit"><b>SEARCH</b></button>
+                </div>
+                <button onclick="clearSerach()" class="btn btn-outline-danger" type="submit"><b>CLEAR</b></button>
             </div>
         </div>
+
     </nav>
     <div class="row p-2" id="main">
-       
-
     </div>
 
+
+    <div class="row p-2" id="car-detail">
+
+    </div>
 
 
 
