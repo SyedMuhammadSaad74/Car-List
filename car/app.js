@@ -25,7 +25,7 @@ suzuki : {
     
     },
     cultus :{
-        image:'https://imgcdn.zigwheels.pk/large/gallery/color/13/124/suzuki-cultus-color-704737.jpg',
+        image:'https://cache4.pakwheels.com/system/car_generation_pictures/6014/original/Suzuki_Cultus_-_PNG.png?1635945515',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -38,7 +38,7 @@ suzuki : {
     
     },
     swift :{
-        image:'https://media.umbraco.io/suzuki-gb/axph1a1m/8636_suzuki_swift_sz-t_lf_r5_mg.png',
+        image:'https://res.cloudinary.com/total-dealer/image/upload/w_3840,f_auto,q_75/v1/production/re4if73s29t922lpwu6mdxjbt7vu',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -67,7 +67,7 @@ suzuki : {
 },
 honda :{
     city : {
-        image:'https://propakistani.pk/wp-content/uploads/2021/05/Honda-City-2017-Present_8c605f21-5d66-4bd4-a82d-c9f62a0a8a82-e1620197316487.jpg',
+        image:'https://cache1.pakwheels.com/system/car_generation_pictures/6425/original/Honda_City_Front.jpg?1651424945',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -78,7 +78,7 @@ honda :{
         color: ['red','white','black']   
     },
     BRV :{
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1w7Pg8SY3DkkFEAJobdYFq-wxNxhjAVTa4RgSizeYtfr5KeY74zMoG2Jy7OHve-7XJs&usqp=CAU',
+        image:'https://images.summitmedia-digital.com/topgear/images/2022/08/02/honda-br-v-2023-2-1659409771.jpg',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -89,7 +89,7 @@ honda :{
         color: ['red','white','black']   
     },
     accord :{
-        image:'https://edgecast-img.yahoo.net/mysterio/api/D9BC91C6C5FB2E79A38806A3E57B7A23C867841A44C5314E3ED04F0822E7A7F9/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USC90HOC011A021001.jpg',
+        image:'https://cdcssl.ibsrv.net/autodata/images/?img=USD30HOC091D021001.jpg&width=660',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -100,7 +100,7 @@ honda :{
         color: ['red','white','black']   
     },
     civic :{
-        image:'https://honda.com.pk/images/2022/03/3.jpg',
+        image:'https://vehicle-images.dealerinspire.com/dcde-110007549/thumbnails/large/JHMFL5G44RX000285/ece0f414a9f0780842a14e0a334a738a.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -122,7 +122,7 @@ honda :{
         color: ['red','white','black']   
     },
     CRV :{
-        image:'https://mystrongad.com/BPH_BillPageHonda/Digital/CR-V/2023/CAR%20CUTS/WEBP/23-Honda-CR-V-Platinum-White-Pearl.webp',
+        image:'https://vehicle-images.dealerinspire.com/stock-images/thumbnails/large/chrome/2a943097f31322ff4ef71cf8eae929d6.png',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -147,7 +147,7 @@ toyota : {
         color: ['red','white','black']   
     },
     yaris :{
-        image:'https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2024-Toyota-Yaris-hatchback-interior-1001x565p-%281%29.jpg',
+        image:'https://www.gari.pk/images/new/cars/2022-10/2273_1_44820.jpg',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -158,7 +158,7 @@ toyota : {
         color: ['red','white','black']   
     },
     camry :{
-        image:'https://edgecast-img.yahoo.net/mysterio/api/5816DABCEDB774431BE8F43881B4BE397F8CF7561FBDD4063E79ACF29E2844F5/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USD30TOC021A021001.jpg',
+        image:'https://images.dealer.com/autodata/us/color/2024/USD40TOC201E0/089.jpg?impolicy=resize&w=414',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -169,7 +169,7 @@ toyota : {
         color: ['red','white','black']   
     },
     premio :{
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmObcfT_E7g8r7NAOV0yUNBMNOxgAIShkFg&usqp=CAU',
+        image:'https://cache1.pakwheels.com/system/car_generation_pictures/3046/original/Toyota_Premio_2007.jpg?1444385166',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -202,7 +202,7 @@ toyota : {
         color: ['red','white','black']   
     },
     landcruiser300 :{
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7t9SAIFk-n2W8v12vsM6PlAuo6e1_YCC3A&usqp=CAU',
+        image:'https://cache4.pakwheels.com/system/car_generation_pictures/5546/original/20210802_01_02_s.jpg?1628488891',
         model:'2024',
         seatcapacity:'8 person',
         fuleType : 'petrol',
@@ -224,7 +224,7 @@ toyota : {
         color: ['red','white','black'],   
     },
     revo :{
-        image:'https://toyota-indus.com/wp-content/uploads/2022/10/Revo_Rocco_Grey-Graphite.png',
+        image:'https://trustmotorsthailand.com/wp-content/uploads/2020/08/FB_IMG_1629858585495.jpg',
         model:'2024',
         seatcapacity:'5 person',
         extra : 'loading area',
@@ -236,7 +236,7 @@ toyota : {
         color: ['red','white','black'],   
     },
     hilux :{
-        image:'https://imgd.aeplcdn.com/664x374/n/cw/ec/109265/hilux-exterior-left-front-three-quarter.jpeg?isig=0&q=80',
+        image:'https://admin.kovacs.ecrm.cl/files/bms_producto_mutimedia/1501/BLANCO.jpg',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -283,7 +283,7 @@ hyundai :{
         color: ['red','white','black']   
     },
     kona :{
-        image:'https://edgecast-img.yahoo.net/mysterio/api/9C35620A03BC87F11049BD180659F4024FED97DFBCB4E205E5E4789B910C5D46/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USD30HYS061C021001.jpg',
+        image:'https://inv.assets.ansira.net/ChromeMultiView/us/WHITE_2024HYS060065_1280_01.jpg',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -294,7 +294,7 @@ hyundai :{
         color: ['red','white','black']   
     },
     palisade :{
-        image:'https://s7d1.scene7.com/is/image/hyundai/2023-palisade-calligraphy-sierra-burgundy:16-9?wid=640&hei=360&fmt=webp-alpha',
+        image:'https://inv.assets.ansira.net/ChromeColorMatch/us/WHITE_cc_2024HYS190074_01_1280_WC9.jpg',
         model:'2024',
         seatcapacity:'5 person',
         fuleType : 'petrol',
@@ -324,29 +324,28 @@ hyundai :{
 var main =document.getElementById("main");
 var brand =document.getElementById("brand");
 var model =document.getElementById("model");
-brand.innerHTML =`<option>Select barnd name</option>`
+brand.innerHTML =`<option>Select brand name</option>`
 model.innerHTML =`<option>Select model name</option>`
 
+function renderAllCars(){
 for (var key in carlist){
 
     brand.innerHTML += `<option value="${key}">${key}</option>`
     for(var key1 in carlist[key]){
         var obj=carlist[key][key1];
         console.log(obj.color)
-        var colorDiv = "";
+        var colorDiv  = "";
         for(var i=0 ; i < obj.color.length ; i++){
             colorDiv  += `<div class="${obj.color[i]}"></div>`
             
         }
-        
+
         main.innerHTML +=`<div class="col-12 col-sm-12 col-md-6 col-lg-3 mb-2">
         <div class="card" style="width: 18rem;">
             <img src=${obj.image} class="card-img-top">
             <div class="card-body">
                 <h5 class="card-title">${key1.toUpperCase()} (${obj.model})</h5>
-                <p class="card-text"> ${obj.Mileage}
-                <br/ >
-                <h3>${obj.price}</h3>
+                
                 <div class="d-flex gap-2">${colorDiv}
                 </div>
             </div>
@@ -358,6 +357,8 @@ for (var key in carlist){
 
         }
     }
+}
+renderAllCars()
 
 function setModel(){
  model.innerHTML="";
@@ -367,6 +368,42 @@ function setModel(){
 }
 }
 
-function serach(){
+var carDetail = document.getElementById(`car-detail`);
+function car(){
+main.style.display="none";
+carDetail.style.display="flex";
+var cars =carlist[brand.value][model.value];
 
+ carDetail.innerHTML =`
+ <div class="card mb-3" style="max-width: 100%;">
+            <div class="row g-0">
+              <div class="col-md-4">
+                <img  src="${cars.image}" class="img-fluid rounded-start">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h2 class="card-title">${model.value.toUpperCase()}</h2>
+                  <p class="card-text">${`MILEAGE:`} ${cars.Mileage}
+                  <br/ >
+                  <p class="card-text">${`SEAT CAPACITY: `} ${cars.seatcapacity}
+                  <br/ >
+                  <p class="card-text">${`FUEL TYPE: `} ${cars.fuleType}
+                  <br/ >
+                  <p class="card-text">${`TRANSMISSION: `} ${cars.Transmission}
+                  <br/ >
+                  <p class="card-text"> ${`WHEEL: `}${cars.Wheel}
+                  <br/ >
+                  <p class="card-text">${`COLORS: `} ${cars.color}
+                  <br/ >
+                  <h5>${cars.price}</h5>
+                </div>
+              </div>
+            </div>
+           </div>`
+}
+
+function clearSerach(){
+    carDetail.style.display="none";
+    main.style.display="flex";
+    renderAllCars()
 }
